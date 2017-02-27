@@ -42,7 +42,7 @@
 					  <div class="panel-body">
 					    <ul>
 					    	<li> <strong>Edad:</strong> 24 años</li>
-					   		<li> <strong>Telefono:</strong> 000-00000</li>
+					   		<li> <strong>Telefono:</strong></li>
 					   		<li> <strong>Direccion: </strong>Venezuela, Estado Bolivar, C. Guayana</li>
 					   		<li> <strong>Email: </strong> alexmoreno548@gmail.com</li>
 					   		<li> <strong>Nivel de Ingles: </strong> Medio</li>
@@ -178,8 +178,8 @@
 					
 					<div class="col-md-2 col-sm-4 col-xs-6">
 		                <center><h4>Rails</h4></center>
-						<div class="c100 p60 medium">
-		                    <span>60%</span>
+						<div class="c100 p70 medium">
+		                    <span>70%</span>
 		                    <div class="slice">
 		                        <div class="bar"></div>
 		                        <div class="fill"></div>
