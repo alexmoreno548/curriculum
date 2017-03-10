@@ -42,7 +42,7 @@
 					  <div class="panel-body">
 					    <ul>
 					    	<li> <strong>Edad:</strong> 24 años</li>
-					   		<li> <strong>Telefono:</strong></li>
+					   		<li> <strong>Telefono:</strong> 0414-891-20-37</li>
 					   		<li> <strong>Direccion: </strong>Venezuela, Estado Bolivar, C. Guayana</li>
 					   		<li> <strong>Email: </strong> alexmoreno548@gmail.com</li>
 					   		<li> <strong>Nivel de Ingles: </strong> Medio</li>
