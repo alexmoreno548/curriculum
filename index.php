@@ -8,13 +8,10 @@
 	<link href='https://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet' type='text/css'>
-
 	<!-- Bootstrap -->
 	<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
 	<!-- Font awesome -->
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
 	<link rel="stylesheet" href="app/css/app.css">
 	<link rel="stylesheet" href="app/css/app.scss">
 </head>
@@ -63,11 +60,11 @@
 				<div class="container">
 					
 				
-					<div class="col-md-10 col-md-offset-1">
+				<div class="col-md-10 col-md-offset-1">
 					<h2>Conocimientos:</h2>
 					<hr>
-					<div class="col-sm-4 col-md-2 backCircle col-xs-6">
-						<center><h4>Html/css</h4></center> 
+					<div class="col-md-2 col-sm-4 backCircle col-xs-6">
+						<h4>Html/css</h4>
 						<div class="c100 p60 medium col-centered">
 		                    <span>60%</span>
 		                    <div class="slice">
@@ -263,6 +260,71 @@
 		                    </div>
 		                </div>
 		            </div>
+		            <div class="col-md-2 col-sm-4 col-xs-6">
+		                <center><h4>C#</h4></center>
+						<div class="c100 p25 medium">
+		                    <span>25%</span>
+		                    <div class="slice">
+		                        <div class="bar"></div>
+		                        <div class="fill"></div>
+		                    </div>
+		                </div>
+		            </div>
+
+		            <div class="col-md-2 col-sm-4 col-xs-6">
+		                <center><h4>ASP .NET</h4></center>
+						<div class="c100 p20 medium">
+		                    <span>20%</span>
+		                    <div class="slice">
+		                        <div class="bar"></div>
+		                        <div class="fill"></div>
+		                    </div>
+		                </div>
+		            </div>
+
+		            <div class="col-md-2 col-sm-4 col-xs-6">
+		                <center><h4 style="font-size: 16.4px;">Xamarin Forms</h4></center>
+						<div class="c100 p30 medium">
+		                    <span>30%</span>
+		                    <div class="slice">
+		                        <div class="bar"></div>
+		                        <div class="fill"></div>
+		                    </div>
+		                </div>
+		            </div>
+
+		            <div class="col-md-2 col-sm-4 col-xs-6">
+		                <center><h4>VueJS 2.0</h4></center>
+						<div class="c100 p30 medium">
+		                    <span>30%</span>
+		                    <div class="slice">
+		                        <div class="bar"></div>
+		                        <div class="fill"></div>
+		                    </div>
+		                </div>
+		            </div>
+					
+					<div class="col-md-2 col-sm-4 col-xs-6">
+		                <center><h4>Kotlin</h4></center>
+						<div class="c100 p30 medium">
+		                    <span>30%</span>
+		                    <div class="slice">
+		                        <div class="bar"></div>
+		                        <div class="fill"></div>
+		                    </div>
+		                </div>
+		            </div>
+
+		            <div class="col-md-2 col-sm-4 col-xs-6">
+		                <center><h4>Pyramid</h4></center>
+						<div class="c100 p40 medium">
+		                    <span>40%</span>
+		                    <div class="slice">
+		                        <div class="bar"></div>
+		                        <div class="fill"></div>
+		                    </div>
+		                </div>
+		            </div>
 				
 
 				</div>
@@ -277,6 +339,11 @@
 				<hr>
 				<h4><strong>Corporacion G8 2015 -2016:</strong></h4>
 				<p>Se laboro con el cargo de desarrollador full stack con el lenguaje de programacion Python especificamente con el framework Pyramid (antiguo Pylons Project), desde agosto de 2015 hasta enero del 2016.</p>
+				<br>
+
+				<h4><strong>Sofing ingenieria de software 2017 - actualidad:</strong></h4>
+				<p>Desarrollador de apps moviles con el uso de Xamarin Forms, nivel Junior, desde mayo de 2017 hasta la actualidad.</p>
+				
 				</div>
 
 				<div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
